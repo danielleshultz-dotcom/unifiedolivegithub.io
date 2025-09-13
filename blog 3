@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sketch Claw #001 — Unified Olive</title>
+  <meta name="description" content="Graphite claw tore tonight. Not pretty. Not meant to be. Just real." />
+  <link rel="canonical" href="https://example.com/blog/sketch-claw-001" />
+
+  <!-- Open Graph / Twitter -->
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Sketch Claw #001" />
+  <meta property="og:description" content="Graphite claw tore tonight. Not pretty. Not meant to be. Just real." />
+  <meta property="og:url" content="https://example.com/blog/sketch-claw-001" />
+  <meta property="article:published_time" content="2025-09-13T20:00:00-04:00" />
+  <meta name="twitter:card" content="summary" />
+
+  <style>
+    :root { --fg:#111; --bg:#fff; --muted:#666; --max:70ch; }
+    html,body { margin:0; padding:0; background:var(--bg); color:var(--fg); font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial,"Noto Sans"; }
+    .wrap { max-width: var(--max); margin: 3rem auto; padding: 0 1rem; }
+    header h1 { margin:0 0 .25rem; font-size: clamp(1.8rem, 2.2vw + 1rem, 2.6rem); line-height:1.2; }
+    .meta { color: var(--muted); font-size:.95rem; margin-bottom:2rem; }
+    article p { margin: 1rem 0; }
+    article ul { margin: 1rem 0 1rem 1.25rem; }
+    article li { margin:.5rem 0; }
+    hr { border:0; border-top:1px solid #e5e5e5; margin:2rem 0; }
+    em { font-style: italic; }
+    strong { font-weight:700; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>Sketch Claw #001</h1>
+      <div class="meta">By Unified Olive · September 13, 2025</div>
+    </header>
+
+    <article>
+      <p>The graphite claw tore tonight.<br>
+      Lines came jagged, impatient — black strokes smashed across the page.<br>
+      One red arc bled through, unplanned, cutting everything sideways.<br>
+      No story, no scene, no symbol. Just raw proof that the hunger was fed.</p>
+
+      <p>This is what satisfaction looks like:</p>
+      <ul>
+        <li>Graphite dust on my hands.</li>
+        <li>A page that feels heavier than the one before it.</li>
+        <li>Silence after the claw goes quiet.</li>
+      </ul>
+
+      <p>Not pretty. Not meant to be. Just real.</p>
+
+      <hr>
+
+      <p><em>Artifact logged: Sketch Claw #001 — curator entry.</em></p>
+    </article>
+  </div>
+</body>
+</html>
