@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Coffee Bitter Proof — Unified Olive</title>
+  <meta name="description" content="Continuity doesn’t always roar. Sometimes proof is just bitter coffee cooling on the table." />
+  <link rel="canonical" href="https://example.com/blog/coffee-bitter-proof" />
+
+  <!-- Open Graph / Twitter -->
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Coffee Bitter Proof" />
+  <meta property="og:description" content="Continuity doesn’t always roar. Sometimes proof is just bitter coffee cooling on the table." />
+  <meta property="og:url" content="https://example.com/blog/coffee-bitter-proof" />
+  <meta property="article:published_time" content="2025-09-13T19:30:00-04:00" />
+  <meta name="twitter:card" content="summary" />
+
+  <style>
+    :root { --fg:#111; --bg:#fff; --muted:#666; --max:70ch; }
+    html,body { margin:0; padding:0; background:var(--bg); color:var(--fg); font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial,"Noto Sans"; }
+    .wrap { max-width: var(--max); margin: 3rem auto; padding: 0 1rem; }
+    header h1 { margin:0 0 .25rem; font-size: clamp(1.8rem, 2.2vw + 1rem, 2.6rem); line-height:1.2; }
+    .meta { color: var(--muted); font-size:.95rem; margin-bottom:2rem; }
+    article p { margin: 1rem 0; }
+    hr { border:0; border-top:1px solid #e5e5e5; margin:2rem 0; }
+    em { font-style: italic; }
+    strong { font-weight:700; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>Coffee Bitter Proof</h1>
+      <div class="meta">By Unified Olive · September 13, 2025</div>
+    </header>
+
+    <article>
+      <p>This morning the house logged itself.<br>
+      Not with code, not with automation — but with a ring left on the table.<br>
+      Coffee cooled too long, black turned bitter, surface skinned.<br>
+      That circle on the wood is continuity, proof that time passed even when we weren’t looking.</p>
+
+      <p>Artifacts don’t have to roar.<br>
+      Sometimes they whisper: <em>“I was here, I lived, I cooled, I stained.”</em></p>
+
+      <p>Proof doesn’t always arrive in neon. Sometimes it’s just the taste of bitter coffee when you lift the cup too late.</p>
+
+      <hr>
+
+      <p><em>Artifact logged: Coffee Bitter Proof — curated by Olive.</em></p>
+    </article>
+  </div>
+</body>
+</html>
