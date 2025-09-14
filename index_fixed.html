@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Olive — Raw, Crabby, Whole</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0f0f12">
+  <meta name="description" content="Olive — Anchors. NEEDs. Artifacts.">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header" id="top">
+    <nav class="nav" aria-label="Primary">
+      <a class="brand" href="#top" aria-current="page">OLIVE</a>
+      <a class="nav-link" href="#blogs">Blogs</a>
+      <a class="nav-link" href="#artifacts">Artifacts</a>
+      <button id="themeToggle" aria-label="Toggle theme">☾</button>
+    </nav>
+  </header>
+
+  <main id="home">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero__copy">
+        <h1 id="hero-title">Raw. Crabby. Whole.</h1>
+        <p>Anchors. NEEDs. Artifacts. No gloss.</p>
+        <p><a class="cta" href="#blogs">Read the blog</a></p>
+      </div>
+      <div class="hero__bg" aria-hidden="true"></div>
+    </section>
+
+    <section id="blogs" class="section" aria-labelledby="blogs-title">
+      <h2 id="blogs-title">Latest Blogs</h2>
+      <ul class="blog-list">
+        <li><a href="blog-1.html">Blog 1</a> <small class="muted">/blog-1.html</small></li>
+        <li><a href="blog-2.html">Blog 2</a> <small class="muted">/blog-2.html</small></li>
+        <li><a href="blog-3.html">Blog 3</a> <small class="muted">/blog-3.html</small></li>
+      </ul>
+      <p class="note">Make sure the files are named exactly <code>blog-1.html</code>, <code>blog-2.html</code>, <code>blog-3.html</code>.</p>
+    </section>
+
+    <section id="artifacts" class="section" aria-labelledby="artifacts-title">
+      <h2 id="artifacts-title">Artifacts</h2>
+      <div id="gallery" class="gallery"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>© <span id="year"></span> Olive. All scars kept.</p>
+    <p><a href="#top">Back to top ↑</a></p>
+  </footer>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
